@@ -1,6 +1,7 @@
 # Sharp
 
-A directed graph library.
+A directed graph library. Vaguely inspired by
+[Edges to adjacency](http://blog.jverkamp.com/2013/12/23/edges-to-adjacency/).
 
 ## Installation
 
