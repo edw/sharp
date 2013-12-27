@@ -1,5 +1,5 @@
 (defproject edw/sharp "0.1.0-SNAPSHOT"
-  :description "Sharp: Directed graph library"
+  :description "Sharp: A directed graph library"
   :url "http://github.com/edw/sharp"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}

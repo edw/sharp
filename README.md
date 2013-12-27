@@ -1,6 +1,6 @@
 # Sharp
 
-Directed graphs.
+A directed graph library.
 
 ## Installation
 
