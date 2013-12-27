@@ -18,18 +18,18 @@ representation of graph edges in this implementation--a bitfield--does
 not lend itself to a simple implementation of graphs where the number
 and identity of vertices is unknown at time of construction.
 
-`graph` [OUT IN]...
+**graph** [OUT IN]...
 
 The function  takes any number of arguments, each argument being a vector
 describing a graph edge, the the two elements describing the "out" and
 "in" vertices of each edge, respectively. A graph is returned.
 
-`in-edges` GRAPH VERTEX
+**in-edges** GRAPH VERTEX
 
 The function returns a set of every vertex from which an in-edge
 originates that has VERTEX as an out-edge.
 
-`out-edges` GRAPH VERTEX
+**out-edges** GRAPH VERTEX
 
 The function returns a set of every vertex which has an in-edge
 originating from VERTEX.
